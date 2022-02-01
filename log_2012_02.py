@@ -1,6 +1,8 @@
 from pprint import pprint
 from collections import namedtuple
 
+# WIP
+
 field_str = '''\
 A B C D E F|
 G  /H      /
